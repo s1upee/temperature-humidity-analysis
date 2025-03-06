@@ -68,7 +68,6 @@ jupyter notebook
 - **Interactive Dashboards** – Developing a **Streamlit** app for real-time data visualization.
 - **Sensor Integration** – Testing the model with live IoT sensor data.
 
-## 📜 License
 ## 📜 License  
 This project is licensed under the MIT License. The dataset is sourced from the **[UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/466/gnfuv+unmanned+surface+vehicles+sensor+data+set+2)** and is available for research purposes.
 
