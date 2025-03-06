@@ -29,14 +29,18 @@ Stored in `Datasets/Data_Experiment_1/pi2.xlsx`.
 6. **Future Predictions** – Extend the model to forecast humidity for new temperature values.
 
 ## 📊 Sample Visualizations
-### Temperature & Humidity Trends
-![Trend Graph](https://github.com/YOUR_GITHUB_USERNAME/temperature-humidity-analysis/blob/main/assets/trend_plot.png)
 
-### Anomaly Detection
-![Outliers](https://github.com/YOUR_GITHUB_USERNAME/temperature-humidity-analysis/blob/main/assets/outliers.png)
+### Temperature & Humidity Trends
+![Trend Graph](https://github.com/s1upee/temperature-humidity-analysis/blob/main/assets/trend_plot.png)
+
+### Boxplot of Temperature and Humidity
+![Boxplot](https://github.com/s1upee/temperature-humidity-analysis/blob/main/assets/boxplot.png)
 
 ### Linear Regression Prediction
-![Regression](https://github.com/YOUR_GITHUB_USERNAME/temperature-humidity-analysis/blob/main/assets/regression.png)
+![Regression](https://github.com/s1upee/temperature-humidity-analysis/blob/main/assets/regression.png)
+
+### K-Means Clustering
+![Clustering](https://github.com/s1upee/temperature-humidity-analysis/blob/main/assets/kmeans_clusters.png)
 
 ## 🛠️ Installation & Usage
 To run this project locally:
@@ -52,13 +56,22 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
+## 📖 Resources  
+- 📂 **Dataset Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/466/gnfuv+unmanned+surface+vehicles+sensor+data+set+2)  
+- 📜 **Documentation on pandas**: [pandas.pydata.org](https://pandas.pydata.org/)  
+- 📊 **Seaborn for Data Visualization**: [seaborn.pydata.org](https://seaborn.pydata.org/)  
+- 🤖 **Scikit-learn for Machine Learning**: [scikit-learn.org](https://scikit-learn.org/)  
+
+
 ## 🔗 Future Work
 - **Expanding ML models** – Experimenting with advanced **time-series forecasting** techniques.
 - **Interactive Dashboards** – Developing a **Streamlit** app for real-time data visualization.
 - **Sensor Integration** – Testing the model with live IoT sensor data.
 
 ## 📜 License
-This project is open-source under the **MIT License**.
+## 📜 License  
+This project is licensed under the MIT License. The dataset is sourced from the **[UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/466/gnfuv+unmanned+surface+vehicles+sensor+data+set+2)** and is available for research purposes.
+
 
 ---
 
